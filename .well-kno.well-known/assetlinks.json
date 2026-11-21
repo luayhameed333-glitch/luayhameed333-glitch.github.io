@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.louay.adalaschool",
+    "sha256_cert_fingerprints": ["38:04:84:C3:DF:17:8D:98:C3:35:19:25:11:3F:63:40:B1:D5:6C:E2:97:6C:82:B0:90:2F:D5:E5:3B:FD:D4:82"]
+  }
+}]
